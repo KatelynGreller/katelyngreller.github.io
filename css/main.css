@@ -1,7 +1,8 @@
 h1 {
-  font-family: 'Garamond', 'Times New Roman', 'Serif';
+  font-family: 'Garamond', 'Baskerville', 'Times New Roman', 'Serif';
   font-size: 3em;
-  color: #ed8ebb
+  color: #ed8ebb;
+  margin-bottom: 0;
 }
 
 a {
@@ -14,7 +15,7 @@ a:hover {
   }
   
 p {
-	font-family: 'Verdana', 'Arial', 'Sans-Serif';
+	font-family: 'Trebuchet MS', 'Arial', 'Sans-Serif';
 	font-size: 1.5em;
   }
   
@@ -22,10 +23,11 @@ body {
 	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/PortfolioHeadshot1.jpeg"); 
 	background-size: cover;
 	background-color: #ede8e6;
+	background-repeat: no-repeat;
 	}
 	
 div.bio {
-	position: relative;
+	position: static;
 	top: 10px;
 	left: 500px;
 	right: 20px;
