@@ -1,0 +1,32 @@
+h1 {
+  font-family: 'Bookman', 'Times New Roman', 'Serif';
+  font-size: 3em;
+  color: #ed8ebb
+}
+
+a {
+  text-decoration: none;
+  color: #ed8ebb
+  }
+  
+a:hover {
+  text-decoration: underline;
+  }
+  
+p {
+	font-family: 'Verdana', 'Arial', 'Sans-Serif';
+	font-size: 1.5em;
+  }
+  
+body {
+	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/PortfolioHeadshot1.jpeg"); 
+	background-color: #ede8e6;
+	}
+	
+div.bio {
+	position: relative;
+	top: 10px;
+	right: 20px;
+	max-width: 500px;
+	}
+	
