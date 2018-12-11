@@ -1,6 +1,13 @@
+p {
+	font-family: 'Trebuchet MS', 'Arial', 'Sans-Serif';
+	font-size: 1.5em;
+	font-weight: 300;
+  }
+
 p.h1 {
-  font-family: 'Garamond', 'Baskerville', 'Times New Roman', 'Serif';
+  font-family: 'Trebuchet MS', 'Arial', 'Sans-Serif';
   font-size: 3em;
+  font-weight: 800;
   color: #ed8ebb;
   padding: 0px;
   margin: 0px
@@ -13,12 +20,6 @@ a {
   
 a:hover {
   text-decoration: underline;
-  }
-  
-p {
-	font-family: 'Trebuchet MS', 'Arial', 'Sans-Serif';
-	font-size: 1.5em;
-	font-weight: 300;
   }
   
 body {
