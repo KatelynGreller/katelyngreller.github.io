@@ -20,6 +20,7 @@ p {
   
 body {
 	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/PortfolioHeadshot1.jpeg"); 
+	background-size: cover;
 	background-color: #ede8e6;
 	}
 	
