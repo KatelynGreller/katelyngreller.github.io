@@ -26,6 +26,7 @@ body {
 div.bio {
 	position: relative;
 	top: 10px;
+	left: 1000px;
 	right: 20px;
 	max-width: 500px;
 	}
