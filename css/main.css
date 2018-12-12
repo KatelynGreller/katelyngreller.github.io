@@ -1,5 +1,13 @@
-p {
+/* Body and text styling */
+body {
 	font-family: 'Open Sans', 'Arial', 'Sans-Serif';
+	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/PortfolioHeadshot1.jpeg"); 
+	background-size: cover;
+	background-color: #ede8e6;
+	background-repeat: no-repeat;
+      }
+	
+p {
 	font-size: 1em;
 	font-weight: lighter;
 	padding: 0px;
@@ -7,7 +15,6 @@ p {
   }
 
 p.h1 {
-  font-family: 'Open Sans', 'Arial', 'Sans-Serif';
   font-size: 3em;
   font-weight: bold;
   color: #ed8ebb;
@@ -15,22 +22,39 @@ p.h1 {
   margin: 0
 }
 
-a {
+/* Navigation bar */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
-  color: #ed8ebb
-  }
+}
+
+li a:hover {
+  background-color: #ede8e6;
+}
+
+.active {
+  background-color: #ede8e6;
+}
+
+/* Body links */
+
   
-a:hover {
-  text-decoration: underline;
-  }
-  
-body {
-	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/PortfolioHeadshot1.jpeg"); 
-	background-size: cover;
-	background-color: #ede8e6;
-	background-repeat: no-repeat;
-	}
-	
+/* Bio text box */
 div.bio {
 	position: relative;
 	top: 40px;
