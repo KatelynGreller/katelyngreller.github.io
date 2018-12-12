@@ -40,7 +40,7 @@ ul {
   padding: 0;
   height: 50px;
   width: 100%;
-  background-color: #7d8187;
+  background-color: #ffffff;
   font-family: 'Open Sans', 'Arial', 'Sans-Serif';
 }
 
@@ -50,18 +50,17 @@ li {
 
 li a {
   display: block;
-  color: #000000;
-  padding: 8px 16px;
+  color: #c8cbd1;
+  padding: 10px 16px;
   text-decoration: none;
 }
 
 li a:hover {
-  color: #ffffff;
+  color: #000000;
 }
 
 .active {
-  color: #ffffff;
-  background-color: #72767c;
+  color: #000000;
 }
 
 /* Body links */
