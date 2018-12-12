@@ -1,4 +1,4 @@
-/* Body and text styling */
+/* Homepage styling */
 body {
 	font-family: 'Open Sans', 'Arial', 'Sans-Serif';
 	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/PortfolioHeadshot1.jpeg"); 
@@ -22,6 +22,15 @@ p.h1 {
   padding: 0px;
   margin: 0
 }
+
+/* Bio text box */
+div.bio {
+	position: relative;
+	top: 20px;
+	left: 550px;
+	right: 70px;
+	max-width: 300px;
+	}
 
 /* Navigation bar */
 ul {
@@ -56,12 +65,5 @@ li a:hover {
 /* Body links */
 
   
-/* Bio text box */
-div.bio {
-	position: relative;
-	top: 20px;
-	left: 550px;
-	right: 70px;
-	max-width: 300px;
-	}
+
 	
