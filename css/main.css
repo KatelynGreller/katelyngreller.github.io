@@ -1,5 +1,5 @@
 p {
-	font-family: 'Trebuchet MS', 'Arial', 'Sans-Serif';
+	font-family: 'Open Sans', 'Arial', 'Sans-Serif';
 	font-size: 1.5em;
 	font-weight: lighter;
 	padding: 0px;
@@ -7,7 +7,7 @@ p {
   }
 
 p.h1 {
-  font-family: 'Trebuchet MS', 'Arial', 'Sans-Serif';
+  font-family: 'Open Sans', 'Arial', 'Sans-Serif';
   font-size: 3em;
   font-weight: bold;
   color: #ed8ebb;
