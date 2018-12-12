@@ -35,6 +35,7 @@ div.bio {
 
 /* Navigation bar */
 ul {
+  opacity: 0.5%;
   list-style-type: none;
   margin: 0;
   padding: 0;
