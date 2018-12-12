@@ -27,9 +27,9 @@ p.h1 {
 div.bio {
 	position: relative;
 	top: 20px;
-	left: 550px;
-	right: 50px;
-	max-width: 400px;
+	left: 600px;
+	right: 40px;
+	max-width: 480px;
 	}
 
 /* Navigation bar */
