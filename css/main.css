@@ -37,7 +37,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  height: 40px;
+  height: 50px;
   width: 100%;
   background-color: #7d8187;
   font-family: 'Open Sans', 'Arial', 'Sans-Serif';
@@ -50,7 +50,7 @@ li {
 li a {
   display: block;
   color: #000000;
-  padding: 0px 16px;
+  padding: 8px 16px;
   text-decoration: none;
 }
 
@@ -60,6 +60,7 @@ li a:hover {
 
 .active {
   color: #ffffff;
+  background-color: #72767c;
 }
 
 /* Body links */
