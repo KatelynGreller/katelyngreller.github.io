@@ -1,0 +1,62 @@
+/* Homepage styling */
+body {
+	font-family: 'Open Sans', 'Arial', 'Sans-Serif';
+	background-color: #ede8e6;
+      }
+	
+p {
+	font-size: 1em;
+	font-weight: lighter;
+	padding: 0px;
+  	margin: 0
+  }
+
+p.h1 {
+  font-size: 3em;
+  font-weight: bold;
+  color: #ed8ebb;
+  padding: 0px;
+  margin: 0
+}
+
+/* Bio text box */
+div.bio {
+	position: relative;
+	top: 20px;
+	left: 600px;
+	right: 40px;
+	max-width: 400px;
+	}
+
+/* Navigation bar */
+ul {
+  opacity: 0.5%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  height: 50px;
+  width: 100%;
+  background-color: #ffffff;
+  font-family: 'Open Sans', 'Arial', 'Sans-Serif';
+}
+
+li {
+    float: left;
+}
+
+li a {
+  display: block;
+  color: #c8cbd1;
+  padding: 10px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: #000000;
+}
+
+.active {
+  color: #000000;
+}
+
+/* Body links */
