@@ -27,6 +27,8 @@ p.h1 {
 /* Bio text box */
 div.bio {
 	float: right;
+	margin-top: 5%;
+	margin-right: 10%;
 	width: 50%;
 	}
 
