@@ -10,21 +10,44 @@ p {
   	margin: 0
   }
 
-p.h1 {
-  font-size: 3em;
+p.mhec {
+  font-size: 2em;
   font-weight: bold;
-  color: #ed8ebb;
+  font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
+  color: #f6b26b;
   padding: 0px;
-  margin: 0
+  margin: 0;
 }
 
-/* Bio text box */
-div.bio {
-	position: relative;
-	top: 20px;
-	left: 600px;
-	right: 40px;
-	max-width: 400px;
+p.bopa {
+  font-size: 2em;
+  font-weight: bold;
+  font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
+  color: #ff91d2;
+  padding: 0px;
+  margin: 0;
+}
+
+p.usgs {
+  font-size: 2em;
+  font-weight: bold;
+  font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
+  color: #25c47a;
+  padding: 0px;
+  margin: 0;
+}
+
+p.hcc {
+  font-size: 2em;
+  font-weight: bold;
+  font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
+  color: #8a7fe6;
+  padding: 0px;
+  margin: 0;
+}
+
+/* Info text box */
+div.info {
 	}
 
 /* Navigation bar */
