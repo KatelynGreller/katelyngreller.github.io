@@ -46,6 +46,11 @@ p.hcc {
   margin: 0;
 }
 
+img {
+	width: 1000px;
+	height: auto;
+}
+
 /* Info text box */
 div.info {
 	}
