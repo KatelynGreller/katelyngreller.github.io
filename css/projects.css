@@ -6,8 +6,6 @@ body {
 p {
 	font-size: 1em;
 	font-weight: lighter;
-	padding: 0px;
-  	margin: 0
   }
 
 p.mhec {
@@ -24,8 +22,6 @@ p.bopa {
   font-weight: bold;
   font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
   color: #ff91d2;
-  padding: 0px;
-  margin: 0;
 }
 
 p.usgs {
