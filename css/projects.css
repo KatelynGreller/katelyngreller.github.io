@@ -6,7 +6,6 @@ body {
 p {
 	font-size: 1em;
 	font-weight: lighter;
-	padding-left: 4px;
   }
 
 p.mhec {
@@ -14,7 +13,6 @@ p.mhec {
   font-weight: bold;
   font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
   color: #f6b26b;
-  padding-left: 4px;
 }
 
 p.bopa {
