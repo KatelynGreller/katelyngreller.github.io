@@ -47,8 +47,8 @@ p.hcc {
 }
 
 img {
-	width: 1000px;
-	height: auto;
+	width: auto;
+	height: 600px;
 }
 
 /* Info text box */
