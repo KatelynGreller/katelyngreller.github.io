@@ -21,7 +21,7 @@ p.mhec {
   font-weight: bold;
   font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
   color: #f6b26b;
-  padding-top: 4px;
+  padding: 0px;
   margin: 0;
 }
 
@@ -30,7 +30,7 @@ p.bopa {
   font-weight: bold;
   font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
   color: #ff91d2;
-  padding-top: 4px;
+  padding: 0px;
   margin: 0;
 }
 
@@ -39,7 +39,7 @@ p.usgs {
   font-weight: bold;
   font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
   color: #25c47a;
-  padding-top: 4px;
+  padding: 0px;
   margin: 0;
 }
 
@@ -48,7 +48,7 @@ p.hcc {
   font-weight: bold;
   font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
   color: #8a7fe6;
-  padding-top: 4px;
+  padding: 0px;
   margin: 0;
 }
 
