@@ -13,6 +13,9 @@ body {
 		background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/AviMobile.jpeg");
 		background-size: cover;
 			}
+	div.bio {
+		float: none;
+		margin: auto;
 	}
 	
 p {
