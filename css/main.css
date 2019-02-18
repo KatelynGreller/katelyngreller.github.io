@@ -1,7 +1,7 @@
 /* Homepage styling */
 body {
 	font-family: 'Open Sans', 'Arial', 'Sans-Serif';
-	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/Headshot2.jpeg"); 
+	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/Avi.jpeg"); 
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-color: #ede8e6;
@@ -10,7 +10,7 @@ body {
 
 @media only screen and (max-width: 600px) {
 	body {
-		background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/HeadshotMobile.jpeg");
+		background-image: url("");
 		background-size: cover;
 			}
 	}
