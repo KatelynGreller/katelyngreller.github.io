@@ -27,6 +27,8 @@ p.h1 {
 div.contact {
 	float: right;
 	text-align: right;
+	margin-right: 2%;
+	margin-bottom: 5%;
 	width: 50%;
 }
 
