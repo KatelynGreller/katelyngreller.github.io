@@ -23,6 +23,11 @@ p.h1 {
   margin: 0;
 }
 
+/* Contact bar */
+div.contact {
+	float: right;
+}
+
 /* Bio text box */
 div.bio {
 	float: right;
