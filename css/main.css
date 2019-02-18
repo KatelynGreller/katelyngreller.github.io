@@ -8,7 +8,7 @@ body {
 	width: 100%;
       }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 500px) {
 	body {
 		background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/AviMobile.jpeg");
 		background-size: cover;
