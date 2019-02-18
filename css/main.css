@@ -7,6 +7,13 @@ body {
 	background-color: #ede8e6;
 	width: 100%;
       }
+
+@media(max-width: 600px) {
+	div.bg {
+		background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/HeadshotMobile.jpeg");
+		background-size: cover;
+			}
+	}
 	
 p {
 	font-size: 1em;
