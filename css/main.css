@@ -8,8 +8,8 @@ body {
 	width: 100%;
       }
 
-@media(max-width: 600px) {
-	div.bg {
+@media only screen and (max-width: 600px) {
+	body {
 		background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/HeadshotMobile.jpeg");
 		background-size: cover;
 			}
