@@ -25,9 +25,9 @@ p.h1 {
 
 /* Contact bar */
 div.contact {
-	float: right;
 	text-align: right;
-	width: 50%;
+	margin-right: 2%;
+	width: 100%;
 }
 
 /* Bio text box */
