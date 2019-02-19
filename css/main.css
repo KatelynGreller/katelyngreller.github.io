@@ -1,18 +1,22 @@
 /* Homepage styling */
 body {
 	font-family: 'Open Sans', 'Arial', 'Sans-Serif';
-	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/Avi.jpeg"); 
-	background-size: cover;
-	background-repeat: no-repeat;
 	background-color: white;
 	width: 100%;
       }
+
+/* 	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/Avi.jpeg"); 
+	background-size: cover; */
 
 /* Contact bar */
 div.contact {
 	text-align: right;
 	margin-right: 2%;
 	width: 100%;
+}
+
+img {
+	float: left;
 }
 	
 p {
@@ -32,10 +36,8 @@ p.h1 {
 
 /* Bio text box */
 div.bio {
-	float: right;
 	margin-top: 5%;
 	margin-right: 5%;
-	width: 50%;
 	}
 
 /* Navigation bar */
