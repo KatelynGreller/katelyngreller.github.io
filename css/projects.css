@@ -2,6 +2,12 @@
 body {
 	font-family: 'Open Sans', 'Arial', 'Sans-Serif';
       }
+/* Contact bar */
+div.contact {
+	text-align: right;
+	margin-right: 2%;
+	width: 100%;
+}
 
 div.sample {
 	max-width: 700px;
@@ -9,13 +15,6 @@ div.sample {
   	margin-left: auto;
   	margin-right: auto;
 	padding-bottom: 30px;
-}
-
-/* Contact bar */
-div.contact {
-	float: right;
-	text-align: right;
-	width: 50%;
 }
 
 a.external {
