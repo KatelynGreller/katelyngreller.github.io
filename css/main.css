@@ -7,6 +7,13 @@ body {
 	background-color: white;
 	width: 100%;
       }
+
+/* Contact bar */
+div.contact {
+	text-align: right;
+	margin-right: 2%;
+	width: 100%;
+}
 	
 p {
 	font-size: 1em;
@@ -21,13 +28,6 @@ p.h1 {
   font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
   padding: 0px;
   margin: 0;
-}
-
-/* Contact bar */
-div.contact {
-	text-align: right;
-	margin-right: 2%;
-	width: 100%;
 }
 
 /* Bio text box */
