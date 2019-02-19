@@ -1,7 +1,7 @@
 /* Homepage styling */
 body {
 	font-family: 'Open Sans', 'Arial', 'Sans-Serif';
-	background-color: white;
+	background-color:  #ffffff;
       }
 
 /* Contact bar */
@@ -41,15 +41,13 @@ div.bio {
 
 /* Navigation bar */
 ul {
-  opacity: 0.5%;
   list-style-type: none;
   margin: 0;
   padding: 0;
   height: 50px;
   width: 100%;
-  background-color: #ffffff;
   font-family: 'Open Sans', 'Arial', 'Sans-Serif';
-  font-size: 2em;
+  font-size: 1em;
 }
 
 li {
