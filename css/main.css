@@ -40,7 +40,7 @@ div.bio {
 	display: inline-block;
 	}
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
 	img {
 		height: 700px;
 		width: 502px;
