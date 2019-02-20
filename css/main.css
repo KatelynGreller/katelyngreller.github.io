@@ -9,7 +9,7 @@ div.contact {
 	text-align: right;
 	margin-top: 2%;
 	margin-right: 2%;
-}
+}		
 
 img {
 	float: left;
@@ -39,6 +39,13 @@ div.bio {
 	max-width: 950px;
 	display: inline-block;
 	}
+
+@media only screen and (max-width: 600px) {
+	img {
+		float: none;
+		margin: auto;
+	}
+    }
 
 /* Navigation bar */
 ul {
