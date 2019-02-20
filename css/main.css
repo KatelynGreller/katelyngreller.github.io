@@ -40,10 +40,17 @@ div.bio {
 	display: inline-block;
 	}
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
 	img {
 		float: none;
 		margin: auto;
+	}
+	
+	div.bio {
+	width: 400px;
+	max-width: 400px;
+	margn-auto;
+	display: inline-block;
 	}
     }
 
