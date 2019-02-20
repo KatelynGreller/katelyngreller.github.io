@@ -42,13 +42,15 @@ div.bio {
 
 @media only screen and (max-width: 480px) {
 	img {
+		height: 700px;
+		width: 522px;
 		float: none;
 		margin: auto;
 	}
 	
 	div.bio {
-	width: 400px;
-	max-width: 400px;
+	width: 200px;
+	max-width: 200px;
 	margn-auto;
 	display: inline-block;
 	}
