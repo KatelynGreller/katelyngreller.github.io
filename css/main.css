@@ -12,13 +12,13 @@ div.contact {
 }		
 
 img {
-	float: left;
-	margin-left: 10%;
+	display: block;
+	margin: auto;
 }
 	
 p {
-	font-size: 1em;
-	font-weight: lighter;
+	font-size: 16px;
+	line-height: 2.6px;
 	padding: 0px;
   	margin: 0;
   }
