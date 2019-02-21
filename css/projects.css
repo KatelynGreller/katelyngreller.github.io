@@ -41,6 +41,7 @@ p.mhec {
 
 p.mkey {
   color: #f6b26b;
+  font-weight: bold;
 }
 
 p.bopa {
@@ -54,6 +55,7 @@ p.bopa {
 
 p.bkey {
   color: #ff91d2;
+  font-weight: bold;
 }
 
 p.usgs {
@@ -67,6 +69,7 @@ p.usgs {
 
 p.ukey {
   color: #25c47a;
+  font-weight: bold;
 }
 
 p.hcc {
@@ -80,6 +83,7 @@ p.hcc {
 
 p.hkey {
   color: #8a7fe6;
+  font-weight: bold;
 }
 
 .center {
