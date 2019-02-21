@@ -21,6 +21,7 @@ div.sample {
 }
 
 a.external {
+  text-decoration: none;
   color: #e56274;
 }
 	
