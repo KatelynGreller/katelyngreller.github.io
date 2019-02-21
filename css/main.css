@@ -84,6 +84,7 @@ li a:hover {
 /* Body links */
 
 .external {
+  text-decoration: none;
   color: #e56274;
 }
 
