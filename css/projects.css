@@ -39,6 +39,10 @@ p.mhec {
   margin: 0;
 }
 
+p.mkey {
+  color: #f6b26b;
+}
+
 p.bopa {
   font-size: 2em;
   font-weight: bold;
@@ -46,6 +50,10 @@ p.bopa {
   color: #ff91d2;
   padding: 0px;
   margin: 0;
+}
+
+p.bkey {
+  color: #ff91d2;
 }
 
 p.usgs {
@@ -57,6 +65,10 @@ p.usgs {
   margin: 0;
 }
 
+p.ukey {
+  color: #25c47a;
+}
+
 p.hcc {
   font-size: 2em;
   font-weight: bold;
@@ -64,6 +76,10 @@ p.hcc {
   color: #8a7fe6;
   padding: 0px;
   margin: 0;
+}
+
+p.hkey {
+  color: #8a7fe6;
 }
 
 .center {
