@@ -37,7 +37,7 @@ div.bio {
 	margin-right: 5%;
 	width: 950px;
 	max-width: 950px;
-	display: inline-block;
+	display: block;
 	}
 
 /* Media query test
