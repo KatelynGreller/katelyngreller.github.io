@@ -13,12 +13,13 @@ div.contact {
 
 img {
 	display: block;
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
 }
 	
 p {
 	font-size: 16px;
-	line-height: 2.6px;
 	padding: 0px;
   	margin: 0;
   }
@@ -33,9 +34,11 @@ p.h1 {
 
 /* Bio text box */
 div.bio {
-	margin-top: 5%;
-	margin-right: 5%;
-	width: 950px;
+	line-height: 2.6px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
 	max-width: 950px;
 	display: block;
 	}
