@@ -88,6 +88,11 @@ li a:hover {
   color: #e56274;
 }
 
+.external:hover {
+  text-decoration: none;
+  color: #e5929d;
+}
+
   
 
 	
