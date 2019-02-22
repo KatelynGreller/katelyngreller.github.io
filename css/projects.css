@@ -20,14 +20,14 @@ div.sample {
 	padding-bottom: 30px;
 }
 
-a.external {
+.external {
   text-decoration: none;
-  color: #e56274;
+  color: #ff849f;
 }
 
 .external:hover {
   text-decoration: none;
-  color: #e5929d;
+  color: #fc9fb3;
 }
 	
 p {
