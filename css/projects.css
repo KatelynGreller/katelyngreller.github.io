@@ -5,8 +5,6 @@ body {
 
 /* Contact bar */
 div.contact {
-	position: -webkit-sticky;
-  	position: sticky;
 	text-align: right;
 	color: #ff849f;
 	font-weight: bold;
@@ -26,7 +24,7 @@ div.contact {
   color: #fcb5c4;
 }
 
-/* Main stuff */
+/* Samples */
 
 div.sample {
 	line-height: 1.6;
@@ -77,6 +75,14 @@ p.hkey {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.gradient {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    z-index: -1;
 }
 
 /* Navigation bar */
