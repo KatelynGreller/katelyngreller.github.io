@@ -5,6 +5,8 @@ body {
 
 /* Contact bar */
 div.contact {
+	position: -webkit-sticky;
+  	position: sticky;
 	text-align: right;
 	color: #ff849f;
 	font-weight: bold;
