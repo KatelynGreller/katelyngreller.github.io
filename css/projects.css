@@ -55,41 +55,14 @@ p.mkey {
   word-spacing: 2em;
 }
 
-p.bopa {
-  font-size: 2em;
-  font-weight: bold;
-  font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
-  color: #ff91d2;
-  padding: 0px;
-  margin: 0;
-}
-
 p.bkey {
   color: #ff91d2;
   font-weight: bold;
 }
 
-p.usgs {
-  font-size: 2em;
-  font-weight: bold;
-  font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
-  color: #25c47a;
-  padding: 0px;
-  margin: 0;
-}
-
 p.ukey {
   color: #25c47a;
   font-weight: bold;
-}
-
-p.hcc {
-  font-size: 2em;
-  font-weight: bold;
-  font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
-  color: #8a7fe6;
-  padding: 0px;
-  margin: 0;
 }
 
 p.hkey {
