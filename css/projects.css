@@ -14,11 +14,13 @@ div.contact {
 
 .external {
   text-decoration: none;
+  font-weight: normal;
   color: #ff849f;
 }
 
 .external:hover {
   text-decoration: none;
+  font-weight: normal;
   color: #fcb5c4;
 }
 
