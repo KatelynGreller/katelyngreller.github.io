@@ -6,10 +6,12 @@ body {
 
 /* Contact bar */
 div.contact {
-	background-color: #ff849f;
 	text-align: right;
-	padding: 5%;
-	margin: 0;
+	color: #ff849f;
+	font-weight: bold;
+	margin-top: 2%;
+	margin-right: 2%;
+	margin-bottom: 5%;
 }		
 
 img {
@@ -85,11 +87,13 @@ li a:hover {
 /* Body links */
 
 .external {
+  font-weight: normal;
   text-decoration: none;
   color: #ff849f;
 }
 
 .external:hover {
+  font-weight: normal;
   text-decoration: none;
   color: #fcb5c4;
 }
