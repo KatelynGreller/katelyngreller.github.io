@@ -8,9 +8,9 @@ body {
 div.contact {
 	background-color: #ff849f;
 	text-align: right;
-	margin-top: 2%;
-	margin-right: 2%;
-	margin-bottom: 2%;
+	padding-top: 2%;
+	padding-right: 2%;
+	padding-bottom: 2%;
 }		
 
 img {
