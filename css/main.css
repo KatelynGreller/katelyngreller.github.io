@@ -18,6 +18,14 @@ div.contact {
 img {
 	float: left;
 }
+
+hr {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	margin: 0;
+}
 	
 p {
 	font-size: 16px;
