@@ -16,9 +16,7 @@ div.contact {
 }		
 
 img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	float: left;
 }
 	
 p {
@@ -38,11 +36,7 @@ p.h1 {
 /* Bio text box */
 div.bio {
 	line-height: 1.6;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 50%;
-	max-width: 500px;
+	max-width: 800px;
 	display: block;
 	}
 
