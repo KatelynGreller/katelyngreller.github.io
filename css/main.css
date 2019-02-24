@@ -11,7 +11,7 @@ div.contact {
 	font-weight: bold;
 	margin-top: 2%;
 	margin-right: 2%;
-	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/TwitterHeader.JPG");
+	background-image: url('https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/TwitterHeader.JPG');
 }		
 
 img {
