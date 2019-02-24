@@ -6,19 +6,19 @@ body {
 
 /* Contact bar */
 div.contact {
-	position: -webkit-sticky;
-  	position: sticky;
 	text-align: right;
 	color: #ff849f;
 	font-weight: bold;
 	margin-top: 2%;
 	margin-right: 2%;
+	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/TwitterHeader.JPG");
 }		
 
 img {
 	float: left;
 }
 
+/* Horizontal line
 hr {
 	color: #c8cbd1;
 	width: 80%;
@@ -26,7 +26,7 @@ hr {
 	margin-right: auto;
 	padding: 0px;
 	margin: 0;
-}
+} */
 	
 p {
 	font-size: 16px;
