@@ -43,13 +43,13 @@ p.h1 {
 
 /* Body links */
 
-a {
+a.link {
   font-weight: normal;
   text-decoration: none;
   color: #ff849f;
 }
 
-a:hover {
+a.link:hover {
   font-weight: normal;
   text-decoration: none;
   color: #fcb5c4;
