@@ -13,19 +13,19 @@ div.contact {
 	margin-right: 2%;
 }		
 
+/* Bio text box */
+div.bio {
+	line-height: 1.6;
+	max-width: 790px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	}
+
 img {
 	float: left;
 }
-
-/* Horizontal line
-hr {
-	color: #c8cbd1;
-	width: 80%;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 0px;
-	margin: 0;
-} */
 	
 p {
 	font-size: 16px;
@@ -39,55 +39,6 @@ p.h1 {
   font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
   padding: 0px;
   margin: 0;
-}
-
-/* Bio text box */
-div.bio {
-	line-height: 1.6;
-	max-width: 790px;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 5%;
-	}
-
-/* Media query test
-@media only screen and (max-width: 600px) {
-	img {
-		height: 700px;
-		width: 502px;
-	}
-    }  */
-
-/* Navigation bar */
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  height: 50px;
-  width: 100%;
-  font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
-  font-size: 24px;
-  font-weight: bold;
-}
-
-li {
-    float: left;
-}
-
-li a {
-  display: block;
-  color: #c8cbd1;
-  padding: 10px 16px;
-  text-decoration: none;
-}
-
-li a:hover {
-  color: #000000;
-}
-
-.active {
-  color: #000000;
 }
 
 /* Body links */
