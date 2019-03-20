@@ -6,11 +6,10 @@ body {
 
 /* Contact bar */
 div.contact {
-	text-align: right;
+	text-align: center;
 	color: #ff849f;
 	font-weight: bold;
 	margin-top: 2%;
-	margin-right: 2%;
 }		
 
 /* Bio text box */
