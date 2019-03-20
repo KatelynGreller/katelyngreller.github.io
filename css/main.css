@@ -5,11 +5,18 @@ body {
       }
 
 /* Contact bar */
-div.contact {
-	align: right;
-	margin-top: 2%;
-	margin-bottom: 2%;
-	margin-right: 2%:
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	float: right;
+}
+
+li a {  
+	display: block;
 	color: #ff849f;
 	font-weight: bold;
 }
