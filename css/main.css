@@ -96,26 +96,8 @@ p.name {
   margin: 0;
 }
 
-p.mkey {
-  color: #f6b26b;
-  font-weight: bold;
-  word-spacing: 2em;
-}
-
-p.bkey {
-  color: #b5a7a2;
-  font-weight: bold;
-  word-spacing: 2em;
-}
-
-p.ukey {
-  color: #25c47a;
-  font-weight: bold;
-  word-spacing: 2em;
-}
-
-p.hkey {
-  color: #1c4587;
+p.key {
+  color: #dbd4d6;
   font-weight: bold;
   word-spacing: 2em;
 }
