@@ -60,16 +60,19 @@ p.mkey {
 p.bkey {
   color: #ff91d2;
   font-weight: bold;
+  word-spacing: 2em;
 }
 
 p.ukey {
   color: #25c47a;
   font-weight: bold;
+  word-spacing: 2em;
 }
 
 p.hkey {
   color: #8a7fe6;
   font-weight: bold;
+  word-spacing: 2em;
 }
 
 .center {
