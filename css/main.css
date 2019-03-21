@@ -14,6 +14,7 @@ div.contact {
   	margin-right: auto;
 	margin-bottom: 5%;
 	padding-top: 2%;
+	text-align: center;
 }
 
 /* Bio text box */
@@ -70,7 +71,6 @@ div.sample {
 	margin-bottom: 5%;
 	padding-top: 2%;
 	padding-bottom: 0px;
-	text-align: center;
 }
 	
 p {
