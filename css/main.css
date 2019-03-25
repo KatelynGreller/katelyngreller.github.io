@@ -20,13 +20,13 @@ div.contact {
 
 /* Body links */
 
-a.link {
+a {
   font-weight: normal;
   text-decoration: none;
   color: #ff849f;
 }
 
-a.link:hover {
+a.hover {
   font-weight: normal;
   text-decoration: none;
   color: #fcb5c4;
