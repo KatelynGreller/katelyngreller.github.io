@@ -16,33 +16,6 @@ div.contact {
 	align-items: center;
 }
 
-/* Bio text box */
-div.bio {
-	line-height: 1.6;
-	max-width: 790px;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 5%;
-	}
-
-img {
-	float: left;
-}
-	
-p {
-	font-size: 16px;
-	padding: 0px;
-  	margin: 0;
-  }
-
-p.h1 {
-  font-size: 2em;
-  font-weight: bold;
-  font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
-  padding: 0px;
-  margin: 0;
-}
 
 /* Body links */
 
@@ -77,10 +50,9 @@ p {
 	font-weight: lighter;
   }
 
-p.name {
+h1 {
   font-size: 2em;
   font-weight: bold;
-  font-family: 'Garamond', 'Hoefler Text', 'Times New Roman', Times, serif;
   padding: 0px;
   margin: 0;
 }
