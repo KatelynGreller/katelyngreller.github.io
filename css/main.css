@@ -1,6 +1,7 @@
 /* Homepage styling */
 body {
 	font-family: 'Nunito', sans-serif;
+	font-size: 150%;
 	color: #494949;
 	background-color:  #f9f9f9;
       }
@@ -52,7 +53,7 @@ p {
   }
 
 h1 {
-  font-size: 2em;
+  font-size: 250%;
   font-weight: bold;
   padding: 0px;
   margin: 0;
