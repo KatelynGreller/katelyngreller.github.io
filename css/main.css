@@ -60,6 +60,14 @@ h1 {
   margin: 0;
 }
 
+p.logo {
+  font-size: 200%;
+  font-family: 'Carter One', serif;
+  font-weight: bold;
+	margin: 10%;
+ }
+
+
 
   
 
