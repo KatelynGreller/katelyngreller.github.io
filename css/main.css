@@ -55,13 +55,10 @@ div.contact {
 /* Body links */
 
 a {
-  font-weight: normal;
   color: #c34af7;
 }
 
 a:hover {
-  font-weight: normal;
-  text-decoration: none;
   color: #d67efc;
 }
 
