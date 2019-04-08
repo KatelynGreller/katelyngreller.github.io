@@ -77,9 +77,10 @@ div.sample {
 div.data {
 	font-size: 80%;
 	border-left: 8px solid #c34af7;
-	background: #efeded; 
+	background: #f7f7f7; 
 	width: 50%;
 	max-width: 800px;
+	padding: 10px;
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
