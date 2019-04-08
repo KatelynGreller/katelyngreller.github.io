@@ -10,7 +10,8 @@ p.logo {
   font-size: 200%;
   font-family: 'Carter One', serif;
   font-weight: bold;
-  margin: 5%;
+  margin-top: 5%;
+  margin-left: 5%;
  }
 
 /* Contact bar */
@@ -47,6 +48,11 @@ h1 {
   line-height: 52px;
   padding: 0px;
   margin: 0;
+}
+
+h3 {
+   margin-top: 0;
+   margin-bottom: 5%;
 }
 	
 p {
