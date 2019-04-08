@@ -68,6 +68,7 @@ div.sample {
 }
 
 div.data {
+	text-align: center;
 	font-size: 80%;
 	color: #757575;
 	width: 100%;
