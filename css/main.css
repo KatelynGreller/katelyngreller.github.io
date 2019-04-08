@@ -10,6 +10,11 @@ div.logo {
   margin-left: 5%;
 }
 
+div.logo a {
+	text-decoration: none;
+	color: black;
+}
+
 p.katelyn {
   font-size: 200%;
   font-family: 'Carter One', serif;
@@ -31,11 +36,6 @@ div.contact {
   	margin-right: auto;
 	margin-bottom: 8%;
 	align-items: center;
-}
-
-div.contact a {
-	text-decoration: none;
-	color: black;
 }
 
 
