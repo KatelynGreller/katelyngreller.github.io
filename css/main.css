@@ -75,12 +75,10 @@ div.sample {
 }
 
 div.data {
-	text-align: center;
 	font-size: 80%;
-	border: 2px solid #494949;
-	border-radius:25px;
+	border-left: 4px solid #c34af7;
 	background: #e0e0e0; 
-	width: 100%;
+	width: 50%;
 	max-width: 800px;
 	display: block;
   	margin-left: auto;
