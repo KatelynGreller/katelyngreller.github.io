@@ -30,14 +30,13 @@ div.contact {
 
 a {
   font-weight: normal;
-  text-decoration: none;
-  color: #ff849f;
+  color: #c34af7;
 }
 
 a:hover {
   font-weight: normal;
   text-decoration: none;
-  color: #fcb5c4;
+  color: #d67efc;
 }
 
 /* Samples */
