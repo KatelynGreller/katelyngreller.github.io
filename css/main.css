@@ -21,6 +21,15 @@ p.katelyn {
   font-weight: bold;
   margin-bottom: 0;
  }
+
+h1 {
+  padding: 0px;
+  margin: 0;
+}
+
+h2 {
+	margin-bottom: 0;
+}
 	
 h4 {
    margin-top: 0;
@@ -53,18 +62,6 @@ a:hover {
 }
 
 /* Samples */
-
-h1 {
-  font-size: 250%;
-  font-weight: bold;
-  line-height: 52px;
-  padding: 0px;
-  margin: 0;
-}
-
-h2 {
-	margin-bottom: 0;
-}
 	
 p {
 	font-size: 1em;
