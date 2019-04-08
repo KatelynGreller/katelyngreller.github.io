@@ -77,8 +77,8 @@ div.sample {
 div.data {
 	text-align: center;
 	font-size: 80%;
-	border: 2px;
-	border-color: #494949;
+	border: 2px solid #494949;
+	border-radius:25px;
 	background: #e0e0e0; 
 	width: 100%;
 	max-width: 800px;
