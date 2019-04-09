@@ -19,8 +19,8 @@ div.logo {
 	color: white;
 	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/Header.png");
 	background-repeat: no-repeat;
-	min-width: 100%;
-        min-height: 100%;
+	max-width: 100%;
+        height: auto;
 }
 	
 div.logo a {
