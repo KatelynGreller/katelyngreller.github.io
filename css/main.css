@@ -14,11 +14,17 @@ div.logo a {
 }
 
 p.katelyn {
-  font-size: 200%;
+  font-size: 300%;
   font-family: 'Carter One', serif;
   font-weight: bold;
   margin-bottom: 0;
  }
+
+hr {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
 
 h1 {
   padding: 0px;
@@ -78,7 +84,10 @@ div.sample {
 
 div.data {
 	border-left: 8px solid #c34af7;
-	background: #f7f7f7; 
+	border-top: 1px solid #f2f2f2;
+	border-right: 1px solid #f2f2f2;
+	border-bottom: 1px solid #f2f2f2;
+	background: #f9f9f9; 
 	width: 50%;
 	max-width: 450px;
 	padding: 10px;
