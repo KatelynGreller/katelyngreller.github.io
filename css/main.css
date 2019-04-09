@@ -5,6 +5,20 @@ body {
 	background-color:  white;
       }
 
+p.katelyn {
+  font-size: 300%;
+  font-family: 'Carter One', serif;
+	color: white;
+  font-weight: bold;
+  line-height: 96px;
+  margin: 0;
+  padding: 0px;
+ }
+
+div.logo {
+	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/Header.png"); 
+}
+	
 div.logo a {
 	text-decoration: none;
 	color: black;
@@ -22,15 +36,6 @@ div.index {
   	margin-left: auto;
   	margin-right: auto;
 }
-
-p.katelyn {
-  font-size: 300%;
-  font-family: 'Carter One', serif;
-  font-weight: bold;
-  line-height: 96px;
-  margin: 0;
-  padding: 0px;
- }
 
 h1 {
   padding-bottom: 0px;
