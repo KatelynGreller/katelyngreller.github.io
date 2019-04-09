@@ -47,6 +47,8 @@ h4 {
 /* Contact bar */
 
 div.contact {
+	font-size: 80%;
+	word-spacing: 2em;
 	width: 100%;
 	display: block;
 	margin: 0;
