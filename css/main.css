@@ -8,7 +8,6 @@ body {
 p.katelyn {
   font-size: 300%;
   font-family: 'Carter One', serif;
-	color: white;
   font-weight: bold;
   line-height: 96px;
   margin: 0;
@@ -16,6 +15,7 @@ p.katelyn {
  }
 
 div.logo {
+	color: white;
 	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/Header.png"); 
 }
 	
