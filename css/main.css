@@ -19,6 +19,7 @@ div.logo {
 	padding: 0px;
 	color: white;
 	background-image: url("https://raw.githubusercontent.com/KatelynGreller/katelyngreller.github.io/master/Header.png");
+	background-repeat: no-repeat;
 	width: 100%;
 	height: 100%;
 }
