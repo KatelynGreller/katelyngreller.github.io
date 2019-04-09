@@ -43,12 +43,13 @@ h4 {
 
 div.contact {
 	width: 100%;
-	max-width: 800px;
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
 	margin-bottom: 8%;
-	align-items: center;
+	text-align: center;
+	background: #c34af7;
+	color: white;
 }
 
 
