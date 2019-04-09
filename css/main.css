@@ -13,6 +13,10 @@ div.logo a {
 	color: black;
 }
 
+div.resume {
+	border-left: 4px solid #c34af7;
+}
+
 p.katelyn {
   font-size: 300%;
   font-family: 'Carter One', serif;
