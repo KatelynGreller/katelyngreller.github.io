@@ -22,7 +22,7 @@ p.katelyn {
  }
 
 hr {
-    border: 3px solid;
+    border: 2px solid;
 }
 
 h1 {
@@ -87,7 +87,7 @@ div.sample {
 div.data {
 	border-left: 8px solid #c34af7;
 	background: #fcfcfc; 
-	width: 50%;
+	width: 90%;
 	max-width: 450px;
 	padding: 10px;
 	display: block;
