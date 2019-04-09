@@ -9,10 +9,8 @@ p.katelyn {
   font-size: 200%;
   font-family: 'Carter One', serif;
   font-weight: bold;
-  margin-left: 0;
-  margin-bottom: 0;
-  padding-left: 0px;
-  padding-bottom: 0px;
+  margin: 0;
+  padding: 0px;
  }
 
 div.logo {
