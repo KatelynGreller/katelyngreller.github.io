@@ -9,8 +9,10 @@ p.katelyn {
   font-size: 200%;
   font-family: 'Carter One', serif;
   font-weight: bold;
-  margin: 0;
-  padding: 0px;
+  margin-left: 0;
+  margin-bottom: 0;
+  padding-left: 0px;
+  padding-bottom: 0px;
  }
 
 div.logo {
@@ -110,7 +112,7 @@ div.data {
 	background: #efefef; 
 	width: 90%;
 	max-width: 450px;
-	padding: 10px;
+	padding: 20px;
 	display: block;
 	margin-top: 10px;
   	margin-left: auto;
