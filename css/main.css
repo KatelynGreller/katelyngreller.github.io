@@ -5,9 +5,6 @@ body {
 	background-color:  white;
       }
 
-div.logo {
-}
-
 div.logo a {
 	text-decoration: none;
 	color: black;
@@ -15,6 +12,11 @@ div.logo a {
 
 div.list {
 	border-left: 4px solid #c34af7;
+}
+
+div.index {
+	width: 100%;
+	max-width: 800px;
 }
 
 p.katelyn {
@@ -65,7 +67,7 @@ a:hover {
   color: #d67efc;
 }
 
-/* Samples */
+/* Writing samples */
 	
 p {
 	font-size: 1em;
