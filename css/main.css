@@ -54,12 +54,15 @@ h4 {
 
 div.contact {
 	text-align: center;
-	font-size: 80%;
-	word-spacing: 2em;
 	width: 100%;
 	display: block;
 	margin: 0;
 	padding: 20px;
+}
+
+div.contact p {
+		font-size: 80%;
+		word-spacing: 2em;
 }
 
 
